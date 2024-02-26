@@ -65,3 +65,5 @@ class NomeDaClasse{
 // a palavra "new" e o nome da classe com parênteses e ponto e vírgula no final. Assim:
 
 $objeto = new NomeDaClasse();
+
+// Isso é tudo por agora. Obrigado por acompanhar e até a próxima ;)
